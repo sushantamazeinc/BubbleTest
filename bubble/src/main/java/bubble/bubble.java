@@ -67,7 +67,7 @@ public class bubble {
 		/*Click on ok*/
 		driver.findElement(By.xpath("//body/app-root[1]/div[1]/div[1]/div[1]/app-lifescore[1]/div[2]/div[1]/div[1]/div[1]/p[3]/button[1]")).click();
 		
-		
+	
 		
 
 	
