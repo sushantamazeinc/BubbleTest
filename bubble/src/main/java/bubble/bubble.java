@@ -11,7 +11,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.Select;
 
-
+//sushant
 
 
 import io.github.bonigarcia.wdm.WebDriverManager;
@@ -32,6 +32,9 @@ public class bubble {
 			driver.findElement(By.xpath("//body/ngb-modal-window[1]/div[1]/div[1]/app-lifescore-error-alert[1]/div[1]/button[1]")).click();
 		} catch (Exception e) {
 			System.out.println(e);
+			
+			
+			
 		}
 		Thread.sleep(3000);
 		/*Cleared the earlier home address or location*/
